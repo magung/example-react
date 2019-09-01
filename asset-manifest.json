@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/magung/example-react/static/css/main.52097e55.chunk.css",
-    "main.js": "/magung/example-react/static/js/main.2ec69c46.chunk.js",
-    "main.js.map": "/magung/example-react/static/js/main.2ec69c46.chunk.js.map",
-    "runtime~main.js": "/magung/example-react/static/js/runtime~main.0f7daacd.js",
-    "runtime~main.js.map": "/magung/example-react/static/js/runtime~main.0f7daacd.js.map",
-    "static/js/2.0dad5db2.chunk.js": "/magung/example-react/static/js/2.0dad5db2.chunk.js",
-    "static/js/2.0dad5db2.chunk.js.map": "/magung/example-react/static/js/2.0dad5db2.chunk.js.map",
-    "index.html": "/magung/example-react/index.html",
-    "precache-manifest.e1d96957b15a1fcb9216e452285b08b3.js": "/magung/example-react/precache-manifest.e1d96957b15a1fcb9216e452285b08b3.js",
-    "service-worker.js": "/magung/example-react/service-worker.js",
-    "static/css/main.52097e55.chunk.css.map": "/magung/example-react/static/css/main.52097e55.chunk.css.map"
+    "main.css": "/example-react/static/css/main.52097e55.chunk.css",
+    "main.js": "/example-react/static/js/main.d310dc79.chunk.js",
+    "main.js.map": "/example-react/static/js/main.d310dc79.chunk.js.map",
+    "runtime~main.js": "/example-react/static/js/runtime~main.78b20e86.js",
+    "runtime~main.js.map": "/example-react/static/js/runtime~main.78b20e86.js.map",
+    "static/js/2.0dad5db2.chunk.js": "/example-react/static/js/2.0dad5db2.chunk.js",
+    "static/js/2.0dad5db2.chunk.js.map": "/example-react/static/js/2.0dad5db2.chunk.js.map",
+    "index.html": "/example-react/index.html",
+    "precache-manifest.cf1b67e5e44b8bc163d89052f7db1342.js": "/example-react/precache-manifest.cf1b67e5e44b8bc163d89052f7db1342.js",
+    "service-worker.js": "/example-react/service-worker.js",
+    "static/css/main.52097e55.chunk.css.map": "/example-react/static/css/main.52097e55.chunk.css.map"
   }
 }
